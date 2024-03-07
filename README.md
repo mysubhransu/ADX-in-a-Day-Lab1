@@ -122,7 +122,7 @@ ADX supports several ingestion methods, including ingestion tools, connectors an
 **Tasks:**
 
 - [**Task 1:** Create the raw table - logsRaw](#challenge-2-ingest-data-from-azure-storage-account)
-- [**Task 2:** Use the “One-click” UI (User Interface) to ingest data from Azure blob storage](#challenge-2-task-2-use-the-one-click-ui-user-interface-to-ingest-data-from-azure-blob-storage)
+- [**Task 2:** Use the “One-click” UI ((https://dataexplorer.azure.com/oneclick)) to ingest data from Azure blob storage](#challenge-2-task-2-use-the-one-click-ui-user-interface-to-ingest-data-from-azure-blob-storage)
 
 **Expected Learning Outcomes:**
 
@@ -145,11 +145,11 @@ ADX supports several ingestion methods, including ingestion tools, connectors an
     ) 
     ```
 
-### **Challenge 2, Task 2: Use the “One-click” UI (User Interface) to ingest data from Azure blob storage**
+### **Challenge 2, Task 2: Use the “One-click” UI (https://dataexplorer.azure.com/oneclick) to ingest data from Azure blob storage**
 
 You need to analyze the system logs for Contoso, which are stored in Azure blob storage.
 
-1. Go back to the **My Cluster** page, click the **Ingest** button in the tile **Ingest Data**.
+1. Use https://dataexplorer.azure.com/oneclick in a new browser tab, instead of usual steps like --> (because new ingestion UI has a bug :( ) Go back to the **My Cluster** page, click the **Ingest** button in the tile **Ingest Data**.
   
       ![Ingest Data Button](/assets/images/data_ingest.png "Ingest Data Button")
 
